@@ -4,6 +4,7 @@
 <head>
     <title>Welcome to HAND DexKit</title>
     <link rel="stylesheet" href="style.css">
+    <h1>Welcome to HAND DexKit</h1>
 </head>
 
 <body>
