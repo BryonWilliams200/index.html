@@ -22,7 +22,7 @@
 <p>
 The HAND Engineering Research Center (HAND ERC) focuses on advancing research,
 education, and innovation in human-centered robotics. The center works to
-improve robotic systems that interact with humans and explore new approaches
+improve robotic systems that can interact with humans and explore new techniques
 for robotic hands and sensing technologies.
 </p>
 
