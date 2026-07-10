@@ -1,5 +1,5 @@
 <head>
-    <title>Welcome to HAND DexKit: Exploring Dexterous Robotics</title>
+    <title>Welcome-to-HAND-DexKit-Exploring-Dexterous-Robotics</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
