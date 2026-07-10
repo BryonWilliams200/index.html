@@ -1,4 +1,4 @@
-<img src="1765605125601.jpeg" alt="HAND DexKit Image" width="400">
+<img src="1765605125601.jpeg" alt="HAND DexKit Image" width="700">
 
 # Welcome to HAND DexKit: Exploring Dexterous Robotics
 
