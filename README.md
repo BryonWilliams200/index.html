@@ -8,46 +8,40 @@
 
 <body>
 
-<!-- Your website content goes here -->
+<nav>
+    <a href="index.html">Home</a>
+    <a href="dexterous-robotics.html">Dexterous Robotics</a>
+    <a href="dexkit.html">DexKit</a>
+    <a href="activities.html">Activities</a>
+    <a href="resources.html">Resources</a>
+</nav>
 
-</body>
+<h1>Welcome to HAND DexKit</h1>
 
-</html>
-
-<img src="1765605125601.jpeg" alt="HAND DexKit Image" width="620"> 
-
-# Welcome to HAND DexKit: Exploring Dexterous Robotics 
+<img src="1765605125601.jpeg" alt="HAND DexKit" width="620">
 
 <h2>About HAND ERC</h2>
 <p>
-The HAND ERC (Engineering Research Center) focuses on advancing research and education
-in human-centered robotics. The center explores technologies that improve robotic
-hands, sensing, and interaction between humans and machines.
+The HAND Engineering Research Center (HAND ERC) focuses on advancing research,
+education, and innovation in human-centered robotics. The center works to
+improve robotic systems that interact with humans and explore new approaches
+for robotic hands and sensing technologies.
 </p>
 
 <h2>DexKit Project Overview</h2>
 <p>
-DexKit is an educational robotics platform designed to introduce students to
-dexterous robotics. Through hands-on activities, students learn about robotic
-hands, haptic feedback, programming, and engineering design.
+DexKit is an educational robotics project designed to introduce students to
+dexterous robotics. Through hands-on learning, students explore robotic hands,
+haptic devices, sensing, and engineering design concepts.
 </p>
 
-<h2>Project Mission</h2>
+<h2>Project Mission Statement</h2>
 <p>
-The mission of the HAND DexKit project is to provide students with opportunities
-to explore robotics through interactive learning experiences and develop skills
-in engineering, problem-solving, and technology.
+The mission of the HAND DexKit project is to inspire students to explore
+robotics and engineering through interactive activities that develop creativity,
+problem-solving, and technical skills.
 </p>
-
-<h2>Explore More</h2>
-
-<a href="dexterous-robotics.html">What is Dexterous Robotics?</a>
-<br>
-<a href="dexkit.html">Learn About DexKit</a>
-<br>
-<a href="activities.html">Summer Camp Activities</a>
-<br>
-<a href="resources.html">Resources</a>
 
 </body>
+
 </html>
