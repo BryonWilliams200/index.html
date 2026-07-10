@@ -1,7 +1,18 @@
+<!DOCTYPE html>
+<html>
+
 <head>
-    <title>Welcome-to-HAND-DexKit-Exploring-Dexterous-Robotics</title>
+    <title>Welcome to HAND DexKit</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
+<body>
+
+<!-- Your website content goes here -->
+
+</body>
+
+</html>
 
 <img src="1765605125601.jpeg" alt="HAND DexKit Image" width="620"> 
 
