@@ -1,13 +1,6 @@
 <img src="1765605125601.jpeg" alt="HAND DexKit Image" width="620"> 
-# Welcome to HAND DexKit: Exploring Dexterous Robotics /
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome to HAND DexKit: Exploring Dexterous Robotics</title>
-
-
-<img src="1765605125601.jpeg" alt="HAND DexKit" width="400">
+# Welcome to HAND DexKit: Exploring Dexterous Robotics 
 
 <h2>About HAND ERC</h2>
 <p>
