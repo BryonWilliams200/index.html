@@ -172,3 +172,14 @@ footer{
     }
 
 }
+
+ul{
+    margin-top:15px;
+    margin-left:30px;
+    line-height:1.9;
+    font-size:18px;
+}
+
+li{
+    margin-bottom:12px;
+}
