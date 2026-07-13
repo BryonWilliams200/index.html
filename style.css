@@ -185,10 +185,9 @@ li{
 }
 
 .content-image{
-    width:80%;
-    max-width:800px;
-    display:block;
-    margin:30px auto;
+    width:90%;
+    max-width:900px;
     border-radius:15px;
     box-shadow:0 8px 20px rgba(0,0,0,.2);
+    margin:30px auto;
 }
