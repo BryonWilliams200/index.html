@@ -199,4 +199,35 @@ li{
 .download-container{
     margin-top:25px;
     text-align:center;
+
 }
+
+.activity-layout{
+    display:flex;
+    align-items:center;
+    gap:40px;
+}
+
+.activity-text{
+    flex:1;
+}
+
+.activity-image{
+    flex:1;
+    text-align:center;
+}
+
+.activity-image img{
+    width:100%;
+    max-width:450px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.2);
+}
+
+@media (max-width:768px){
+    .activity-layout{
+        flex-direction:column;
+    }
+}
+
+
