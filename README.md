@@ -2,6 +2,7 @@
 
 <head>
     <h1>Welcome to HAND DexKit: Exploring Dexterous Robotics</h1>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
