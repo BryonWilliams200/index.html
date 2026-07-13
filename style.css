@@ -13,6 +13,7 @@ body{
     line-height:1.7;
 }
 
+
 /* ---------- Navigation ---------- */
 
 nav{
@@ -38,6 +39,7 @@ nav a{
 nav a:hover{
     color:#FFD54F;
 }
+
 
 /* ---------- Hero ---------- */
 
@@ -67,6 +69,7 @@ nav a:hover{
     margin:auto;
 }
 
+
 /* ---------- Cards ---------- */
 
 .card{
@@ -81,8 +84,12 @@ nav a:hover{
 }
 
 .card:hover{
-    transform:translateY(-5px);
     box-shadow:0 16px 30px rgba(0,0,0,.18);
+}
+
+.card h1{
+    color:#003366;
+    margin-bottom:20px;
 }
 
 .card h2{
@@ -95,6 +102,48 @@ nav a:hover{
 .card p{
     font-size:18px;
 }
+
+
+/* ---------- Images ---------- */
+
+.content-image{
+    width:90%;
+    max-width:900px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.2);
+}
+
+.image-container{
+    text-align:center;
+    margin:30px auto;
+}
+
+
+/* ---------- Activity Side Layout ---------- */
+
+.activity-layout{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:50px;
+}
+
+.activity-text{
+    width:55%;
+}
+
+.activity-image{
+    width:45%;
+    text-align:center;
+}
+
+.activity-image img{
+    width:100%;
+    max-width:450px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.2);
+}
+
 
 /* ---------- Buttons ---------- */
 
@@ -123,12 +172,34 @@ nav a:hover{
     border-radius:12px;
     font-weight:bold;
     transition:.3s;
+    display:inline-block;
 }
 
 .button:hover{
     background:#0077cc;
     transform:translateY(-3px);
 }
+
+
+.download-container{
+    margin-top:25px;
+    text-align:center;
+}
+
+
+/* ---------- Lists ---------- */
+
+ul{
+    margin-top:15px;
+    margin-left:30px;
+    line-height:1.9;
+    font-size:18px;
+}
+
+li{
+    margin-bottom:12px;
+}
+
 
 /* ---------- Footer ---------- */
 
@@ -139,6 +210,7 @@ footer{
     text-align:center;
     padding:25px;
 }
+
 
 /* ---------- Responsive ---------- */
 
@@ -171,63 +243,14 @@ footer{
         width:90%;
     }
 
-}
-
-ul{
-    margin-top:15px;
-    margin-left:30px;
-    line-height:1.9;
-    font-size:18px;
-}
-
-li{
-    margin-bottom:12px;
-}
-
-.content-image{
-    width:90%;
-    max-width:900px;
-    border-radius:15px;
-    box-shadow:0 8px 20px rgba(0,0,0,.2);
-    margin:30px auto;
-}
-
-.image-container{
-    text-align:center;
-}
-
-.download-container{
-    margin-top:25px;
-    text-align:center;
-
-}
-
-.activity-layout{
-    display:flex;
-    align-items:center;
-    gap:40px;
-}
-
-.activity-text{
-    flex:1;
-}
-
-.activity-image{
-    flex:1;
-    text-align:center;
-}
-
-.activity-image img{
-    width:100%;
-    max-width:450px;
-    border-radius:15px;
-    box-shadow:0 8px 20px rgba(0,0,0,.2);
-}
-
-@media (max-width:768px){
     .activity-layout{
         flex-direction:column;
     }
-}
 
+    .activity-text,
+    .activity-image{
+        width:100%;
+    }
+
+}
 
