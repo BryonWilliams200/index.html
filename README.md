@@ -9,6 +9,7 @@
 
     
 <nav>
+    <a href="index.html">Home</a>
     <a href="dexterous-robotics.html">Dexterous Robotics</a>
     <a href="dexkit.html">DexKit</a>
     <a href="activities.html">Activities</a>
