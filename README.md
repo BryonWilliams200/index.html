@@ -8,6 +8,8 @@
 
 <body>
 
+<html>
+    
 <nav>
     <a href="index.html">Home</a>
     <a href="dexterous-robotics.html">Dexterous Robotics</a>
