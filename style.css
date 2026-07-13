@@ -183,3 +183,12 @@ ul{
 li{
     margin-bottom:12px;
 }
+
+.content-image{
+    width:80%;
+    max-width:800px;
+    display:block;
+    margin:30px auto;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.2);
+}
