@@ -1,10 +1,7 @@
-<!DOCTYPE html>
 <html>
 
 <head>
-
-    <title>Welcome to HAND DexKit: Exploring Dexterous Robotics</title>
-
+    <h1>Welcome to HAND DexKit: Exploring Dexterous Robotics</h1>
     <link rel="stylesheet" href="style.css">
 
 </head>
@@ -20,14 +17,11 @@
 </nav>
 
 <header class="hero">
-
     <img src="1765605125601.jpeg" alt="HAND DexKit" class="hero-image">
-
     <h1>Welcome to HAND DexKit</h1>
-
     <p class="hero-text">
-        Explore the exciting world of dexterous robotics through hands-on learning,
-        engineering design, robotic hands, and haptic technology.
+    Explore the exciting world of dexterous robotics through hands-on learning,
+    engineering design, robotic hands, and haptic technology.
     </p>
 
 </header>
